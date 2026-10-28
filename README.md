@@ -20,4 +20,4 @@ Download the executable and run it on Windows. A separate Python installation sh
 
 **v1.0.0 — Initial Release**
 
-Created by Alireza F.
+Created by Alireza F (orca) 
